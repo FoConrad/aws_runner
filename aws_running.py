@@ -9,7 +9,7 @@ import IPython
 from tarfile import is_tarfile
 
 
-class AwsWorker(onject):
+class AwsWorker(object):
     def __init__(self, args):
         pass
 
